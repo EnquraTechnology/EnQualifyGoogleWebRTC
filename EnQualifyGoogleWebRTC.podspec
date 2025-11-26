@@ -7,7 +7,7 @@
     "file": "LICENSE.md",
     "type": "Multiple"
   },
-  "name": "GoogleWebRTC",
+  "name": "EnQualifyGoogleWebRTC",
   "platforms": {
     "ios": "12.0"
   },
